@@ -32,6 +32,7 @@ btns.forEach((btn) => {
         console.log("you have clicked the button") ;
         if(turn0){
             btn.innerText ="o" ;
+            btn.style.color = "green" ;
             turn0= false ;
         }else{
             btn.innerText = "x" ;
