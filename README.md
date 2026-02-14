@@ -1,1 +1,1 @@
-# this is my first mini project (tic-tac-toe game) .
+# This is my first mini project (tic-tac-toe game) .
