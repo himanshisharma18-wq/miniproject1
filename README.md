@@ -6,7 +6,7 @@
 
 <p>
 
-<a href=" https://himanshisharma18-wq.github.io/miniproject1/">
+<a href="https://himanshisharma18-wq.github.io/miniproject1/">
 <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00C853?style=for-the-badge">
 </a>
 
